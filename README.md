@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%A2%E3%83%AA%E3%83%A4%E3%81%A7%E3%81%99;Curious+Builder+%7C+Still+Exploring;Level+up+every+day+%E2%9A%94%EF%B8%8F;Gamer+at+heart+%F0%9F%8E%AE" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%A2%E3%83%AA%E3%83%A4%E3%81%A7%E3%81%99;Curious+Builder+%7C+Still+Exploring;Level+up+every+day+%E2%9A%94%EF%B8%8F;Gamer+at+heart+%F0%9F%8E%AE" alt="Typing animation" />
 </p>
 
 <p align="center">
