@@ -68,6 +68,6 @@ I love figuring out how things work, then building something with what I learn. 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,55:12002b,100:000000&height=150&section=footer&text=Thanks%20for%20visiting&fontSize=26&fontColor=f5d0fe&fontAlignY=68&animation=twinkling" alt="footer" />
+  <img src="https://raw.githubusercontent.com/arya-satria/arya-satria/main/footer.svg" alt="Footer" width="100%" />
 </p>
 </p>
